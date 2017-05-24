@@ -1,4 +1,4 @@
-# Smart-Home-Automation-Control-System
+# Smart-Home-Automation-Control-System (Senior Project)
 
 ## Synopsis
 The goal of this control system is to be able to access and control everyday home
